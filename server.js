@@ -13,5 +13,5 @@ if (!module.parent) {
         console.log(`Server running on port ${port}`);
     });
 }
-
+// jshint ignore:line
 module.exports = app;
